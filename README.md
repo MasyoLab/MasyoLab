@@ -4,8 +4,8 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasyoLab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasyoLab&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MasyoLab&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MasyoLab)
 
-![](https://github-readme-stats-one-ashy.vercel.app/api?username=MasyoLab&show_icons=true)
-![](https://github-profile-trophy.vercel.app/?username=MasyoLab&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=MasyoLab&theme=onedark&row=2&column=3)
